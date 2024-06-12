@@ -4,7 +4,7 @@ addEventListener("fetch", (event) => {
 });
 
 const routes = {
-  "docker.153224.xyz": "https://registry-1.docker.io",
+  "docker.153224.xyz": "https://docker.io",
   "quay.153224.xyz": "https://quay.io",
   "gcr.153224.xyz": "https://gcr.io",
   "k8s-gcr.153224.xyz": "https://k8s.gcr.io",
